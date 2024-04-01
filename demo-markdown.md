@@ -27,3 +27,5 @@
 _cursiva_
 
 <span style="color:green">Texto verde</span>
+
+<span style="color:green">**Texto verde en negrita**</span>
